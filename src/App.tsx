@@ -1,3 +1,5 @@
+import { FormBuilder } from "./features/form-builder/form-builder.page";
+
 export const App = () => {
-  return <div className="bg-red-500">xx</div>;
+  return <FormBuilder />;
 };
