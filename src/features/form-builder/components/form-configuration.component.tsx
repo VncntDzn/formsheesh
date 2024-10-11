@@ -1,5 +1,3 @@
-import React from "react";
-
 export const FormConfiguration = () => {
-  return <div>FormConfiguration</div>;
+  return <div className="flex-none">FormConfiguration</div>;
 };
